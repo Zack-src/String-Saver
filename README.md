@@ -1,2 +1,2 @@
 # String-Saver
-Programme permettant de dauvegarder la mémoire de certains processus directement dans des .txt sans passer par ProcessHacker
+Programme permettant de dauvegarder la mémoire de certains processus directement dans des .txt
